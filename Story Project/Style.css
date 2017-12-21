@@ -1,0 +1,13 @@
+a:hover {
+  color: aqua;
+  background: blue;
+}
+body {
+  background-color: black;
+color:white;
+font-family: 'Pacifico', cursive;
+text-align: center;
+}
+a {
+  color: green;
+}
